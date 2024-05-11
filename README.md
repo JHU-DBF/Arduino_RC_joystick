@@ -1,4 +1,4 @@
-## Connect RC controller to your computer
+## Connect RC controllers to your computer
 Requires an Arduino Mega and any RC receivers
 
 ### Reccomended RC simulators
